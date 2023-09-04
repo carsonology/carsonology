@@ -2,7 +2,7 @@
 
 I'm a visual journalist who codes interactive experiences, mostly with Javascript, and analyzes data, mostly with Python. I currently work at the Washington Post. 
 
-To see some of my projects, check out my website, <a href="www.carsonterbush.com">www.carsonterbush.com</a>.
+To see some of my projects, check out my website, <a href="https://www.carsonterbush.com">carsonterbush.com</a>.
 <!--
 **carsonology/carsonology** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
