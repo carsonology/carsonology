@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+I'm a visual journalist who codes interactive experiences, mostly with Javascript, and analyzes data, mostly with Python. Take a look at some of my projects!
 <!--
 **carsonology/carsonology** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
