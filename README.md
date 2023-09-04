@@ -1,4 +1,4 @@
-# Hi there 👋
+# 💃 Hi there!
 
 I'm a visual journalist who codes interactive experiences, mostly with Javascript, and analyzes data, mostly with Python. I currently work at the Washington Post. 
 
